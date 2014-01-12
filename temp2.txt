@@ -1,0 +1,384 @@
+<!-- start COMPANY -->
+
+
+
+<div data-role="page" 
+    id="fact_company"
+    data-theme="e">
+    	
+        <div data-role="navbar">
+        <ul>
+        <li><a href="#fact_company"
+        class="ui-btn-active ui-state-persist" 
+        data-transition="slidedown"
+        data-role="button"
+        >Facts</a></li>
+        <li><a href="#prof_company"
+        data-transition="slidedown" 
+        >Profile</a></li>
+        <li><a href="#success_company"
+        data-transition="slidedown" 
+        >Success</a></li>
+        </ul>
+        </div><!--navbar-->
+        
+        	
+        <div data-role="content">
+       <div data-role="controlgroup"
+       data-theme="e">
+        <div id="logoHolder">
+        <img src="logo/company.png" width="auto" border="0"></div>
+        </div><!-- end logoHolder-->
+
+        <div id="quickfact">Quick Fact</div><!-- quickfact -->
+        
+        <div id="qf_q">
+        <b>Establishment:</b>
+        </div><!-- qf_q -->
+        
+        <div id="qf_a">
+        2005
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b>Legal Status:</b>
+        </div><!-- qf_q -->
+        
+        <div id="qf_a">
+        Public Joint Stock Company
+Listed on the Abu Dhabi Securities Exchange (ADX)
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b>Industry / Sector:</b>
+        </div><!-- qf_q -->
+        
+        <div id="qf_a">
+        Energy – Natural Gas
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b>Business Activities:</b>
+        </div><!-- qf_q -->
+        
+        <div id="qf_a">
+        Exploration, Transportation, Processing, Distribution, Marketing and Sale of Natural Gas and Petroleum Related Products, Including the Development of Gas Related Projects and Services.
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b>Countries of Operation:</b>
+        </div><!-- qf_q -->
+        
+        <div id="qf_a">
+        United Arab Emirates, Iraq and Egypt.
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b>Chairman:</b>
+        </div><!-- qf_q -->
+        
+        <div id="qf_a">
+        Sheikh Ahmed bin Sultan Al Qasimi
+        </div><!-- qf_a -->
+               
+        <div id="qf_q">
+        <b>Senior Management:</b>
+        </div><!-- qf_q -->
+       	
+        <div id="qf_a">
+        Rashid Al Jarwan - Acting Chief Executive Officer
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b>Contact Details:</b>
+        </div><!-- qf_q -->
+       	
+        <div id="qf_a">
+            Crescent Tower, 11th
+            Floor Al Buhaira Corniche,
+            P.O. Box: 2011, Sharjah,
+            United Arab Emirates,
+            Tel: 971 6 556 9444,
+            Fax: 971 6 556 6522,
+           <p> Email: mail@danagas.ae </p>
+        </div><!-- qf_a -->
+        
+        <div id="qf_q">
+        <b><a href="http://1/" target="new">1</a></b>
+        </div><!-- qf_q -->
+        
+		</div><!-- end factsheet content -->
+        
+          
+    <div data-role="footer"
+    data-position="fixed"
+    data id="vs_footer"
+    data-theme="e">
+    	<div data-role="navbar">
+        <ul>
+        <li><a href="#" 
+        data-icon="back"
+        data-transition="slidedown"
+        data-role="button" 
+        data-iconpos="left"
+        data-rel="back"
+        title="Go back"
+        >Back</a></li>
+        
+        <li><a href="index.html#sect"
+        rel="external"
+        data-icon="grid"
+        data-transition="slidedown"
+        data-role="button"
+        data-iconpos="left"
+        >Sectors</a></li>
+        
+        <li><a href="#banking"
+        data-icon="bars"
+        data-transition="slidedown" 
+        data-role="button"
+        data-iconpos="left"
+        >Banking</a></li>
+				        
+        <li><a href="index.html"
+        rel="external"
+        data-icon="home"
+        data-transition="slide" 
+        data-role="button"
+        data-iconpos="left"
+        >Home</a></li>
+        </ul>
+        </div><!--navbar-->
+    
+    </div><!-- end footer -->
+	</div><!-- info -->
+
+<div data-role="page" 
+    id="prof_company"
+    data-theme="e">
+    	
+        <div data-role="navbar">
+        <ul>
+        <li><a href="#fact_company"        
+        data-transition="slidedown"
+        data-role="button"
+        >Facts</a></li>
+        <li><a href="#prof_company"
+        class="ui-btn-active ui-state-persist" 
+        data-transition="slidedown" 
+        >Profile</a></li>
+        <li><a href="#success_company"
+        data-transition="slidedown" 
+        >Success</a></li>
+        </ul>
+        </div><!--navbar-->
+        
+       <div data-role="content">
+      <div data-role="controlgroup"
+       data-theme="e">
+        <div id="logoHolder">
+        <img src="logo/company.png" width="auto" border="0"></div>
+        </div><!-- end logoHolder-->
+        
+ 	<div id="cotitle">Company Profile
+        
+    </div><!-- end cotitle -->   
+    
+    <div id="co_text">
+    
+        <p>
+remains one of the most distinguished UAE-based
+global investors. The company was founded in 2005 when the
+Abu Dhabi Water and Electricity Authority (ADWEA) privatized
+its power and water assets. Even though the company has
+significantly grown in a remarkable fast pace and stepped into
+five different continents – North America, Europe, Africa and
+Asia, retaining its position as the premier energy company in
+the home market remains of such immense importance.
+Today, TAQA is responsible for 98% of the emirate’s water
+and electricity needs. In total, it owns seven plants in the UAE,
+producing nearly 10,783 mega watts of power and 787 million
+imperial gallons of water a day of desalination capacity. With
+a combined total of over USD 23.4 billion in assets, TAQA
+enjoys a stable fiscal position, which does not only enable
+the company to operate with confidence but also to expand
+regionally and globally.</p>
+
+<div id="co_img">
+    <img src="images/company-1.jpg" width="100%" height="auto" alt="">
+    </div><!-- co_img -->
+	
+	
+<p>TAQA has divided its operations into three business
+lines, namely; downstream, midstream and upstream, sinceoperating at a global level has been its primary goal, matching
+the company’s commitment towards becoming a global
+integrated energy provider. In the upstream sector, TAQA
+operates in the exploration and production of crude oil and
+natural gas fields, which take the company to the Netherlands,
+UK, Canada and the US.</p> 
+
+	</div><!-- co_text -->
+
+	    
+    </div><!-- end profile content -->
+  
+  	 <div data-role="footer"
+    data-position="fixed"
+    data id="vs_footer"
+    data-theme="e">
+    	<div data-role="navbar">
+        <ul>
+        <li><a href="#" 
+        data-icon="back"
+        data-transition="slidedown"
+        data-role="button" 
+        data-iconpos="left"
+        data-rel="back"
+        title="Go back"
+        >Back</a></li>
+        
+        <li><a href="index.html#sect"
+        rel="external"
+        data-icon="grid"
+        data-transition="slidedown"
+        data-role="button"
+        data-iconpos="left"
+        >Sectors</a></li>
+        
+        <li><a href="#banking"
+        data-icon="bars"
+        data-transition="slidedown" 
+        data-role="button"
+        data-iconpos="left"
+        >Banking</a></li>
+		        
+        <li><a href="index.html"
+        rel="external"
+        data-icon="home"
+        data-transition="slide" 
+        data-role="button"
+        data-iconpos="left"
+        >Home</a></li>
+        </ul>
+        </div><!--navbar-->
+    
+    </div><!-- end footer -->
+    
+	</div><!-- info -->
+
+<div data-role="page" 
+    id="success_company"
+    data-theme="e">
+    	
+        <div data-role="navbar">
+        <ul>
+        <li><a href="#fact_company"        
+        data-transition="slidedown"
+        data-role="button"
+        >Facts</a></li>
+        <li><a href="#prof_company"
+        data-transition="slidedown" 
+        >Profile</a></li>
+        <li><a href="#success_company"
+        class="ui-btn-active ui-state-persist" 
+        data-transition="slidedown" 
+        >Success</a></li>
+        </ul>
+        </div><!--navbar-->
+        
+    
+    <div data-role="content">
+    <div data-role="controlgroup"
+       data-theme="e">
+        <div id="logoHolder">
+        <img src="logo/company.png" width="auto" border="0"></div>
+        </div><!-- end logoHolder-->
+        
+        
+   <div id="sucstitle">Success Story
+        
+    </div><!-- end proftitle --> 
+  
+   <div id="sucsbox">
+   <div id="sucstext">
+   <b>Success Story 1</b>
+        
+<p>
+remains one of the most distinguished UAE-based
+global investors. The company was founded in 2005 when the
+Abu Dhabi Water and Electricity Authority (ADWEA) privatized
+its power and water assets. Even though the company has
+significantly grown in a remarkable fast pace and stepped into
+five different continents – North America, Europe, Africa and
+Asia, retaining its position as the premier energy company in
+the home market remains of such immense importance.
+Today, TAQA is responsible for 98% of the emirate’s water
+and electricity needs. In total, it owns seven plants in the UAE,
+producing nearly 10,783 mega watts of power and 787 million
+imperial gallons of water a day of desalination capacity. With
+a combined total of over USD 23.4 billion in assets, TAQA
+enjoys a stable fiscal position, which does not only enable
+the company to operate with confidence but also to expand
+regionally and globally.</p>
+	</div><!-- end sucstext -->
+    </div><!-- end sucsbox -->
+	
+	 
+	<div id="maptitle">Countries of Operations
+        
+    </div><!-- end maptitle --> 
+
+<div id="map_img">
+    <img src="map/company-map.png" width="100%" height="auto" alt="">
+    </div><!-- map_img -->
+
+  </div><!-- info success content -->
+
+        
+     <div data-role="footer"
+    data-position="fixed"
+    data id="vs_footer"
+    data-theme="e">
+    	<div data-role="navbar">
+        <ul>
+        <li><a href="#" 
+        data-icon="back"
+        data-transition="slidedown"
+        data-role="button" 
+        data-iconpos="left"
+        data-rel="back"
+        title="Go back"
+        >Back</a></li>
+        
+        <li><a href="index.html#sect"
+        rel="external"
+        data-icon="grid"
+        data-transition="slidedown"
+        data-role="button"
+        data-iconpos="left"
+        >Sectors</a></li>
+        
+       <li><a href="#banking"
+        data-icon="bars"
+        data-transition="slidedown" 
+        data-role="button"
+        data-iconpos="left"
+        >Banking</a></li>
+		        
+        <li><a href="index.html"
+        rel="external"
+        data-icon="home"
+        data-transition="slide" 
+        data-role="button"
+        data-iconpos="left"
+        >Home</a></li>
+        </ul>
+        </div><!--navbar-->
+    
+    </div><!-- end footer -->
+        
+	</div><!-- info -->
+	
+	
+    
+<!-- end COMPANY -->

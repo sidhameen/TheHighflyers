@@ -1,0 +1,197 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 0.9em;
+	margin: 5px;
+	
+		}
+
+#home, #sec, #initi, #testi {
+	text-align: left;
+	font-size:1em;
+	background-image: url(../../images/background_highflyers.png);
+	background-repeat: repeat;
+	}
+#mes {
+	text-align: left;
+	font-size:1.2em;
+	}
+
+#home .ui-controlgroup {
+	width: 90%;
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+
+	}
+#home .ui-controlgroup a {
+	text-align:left;
+	padding-left:4px;
+	min-width: 220px;
+	}
+#homeFooter {
+	width: 100%;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	background-image: url(../../hf/footerback.jpg);
+	background-repeat: repeat-x;
+	background-position: center center;	
+	}
+#footertext{
+	font-size:0.7em;
+	font-style:normal;
+	margin-right:auto;
+	margin-left:auto;
+	color:#6F9EAC;
+	text-shadow:none;
+	padding-bottom:2px;
+	}
+#logoHolder {
+	width: 100%;
+	height: 75px;
+	background-image: url(../../hf/hfLogoBack.png);
+	background-repeat: repeat-x;
+	text-align: center;
+	}
+
+#govlogo{
+	height: 80%;
+	max-height: 70px;
+	margin-top: 6px;
+	margin-left:2%;
+	margin-bottom: auto;
+	margin-right: 8px;
+	float: left;
+}
+#highflyer {
+	width: 68%;
+	max-width: 230px;
+	height: auto;
+	margin-left: 3%;
+	float: right;
+	margin-top: 18px;
+	}
+
+#botom_logo{
+	width: 100%;
+	height: auto;
+	background-color: #593014;
+	padding-left: 10px;
+	text-align:center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 0.78em;
+	color: #FFF;
+	margin-right: auto;
+	margin-top:0px;
+	margin-left: auto;
+	paddin: 5 5 10 5;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	}
+#khalifa_img {
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	}
+#mansu_img {
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	}
+	
+#khalifa_text a {
+	float: left;
+	text-align:justify;
+	}
+.lists ul {
+	width: 100%;
+	margin:1px;
+	padding:0;
+	height: 40px;
+	background-image: url(../../images/sectorback.png);
+	text-align: left;
+	vertical-align: middle;
+	background-repeat: repeat;
+	}
+
+.lists ul:hover {
+	background-image:url(../../images/sectorbackhover.png);
+	background-repeat:repeat;
+	}
+.lists ul a {
+	color:#659BA7;
+	display: block;
+	width: 100%;
+	text-align:left;
+	line-height:40px;
+	text-decoration:none;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:1em;
+	overflow:hidden;
+	white-space:nowrap;
+	}
+.lists ul a:hover {
+	color:#244253;
+	}
+.listicon {
+	width:30px;
+	height:30px;
+	padding:5px;
+	float:left;
+	}
+	
+#bookpic {
+	width: 100%;
+	max-width: 480px;
+	min-width:200px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	display: block;
+	text-align:center;
+
+	}
+	
+#gold {
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	margin-top: 8px;
+	text-align: center;
+	color: #B1883A;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #B1883A;
+	}
+	
+#silv {
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	margin-top: 25px;
+	text-align: center;
+	color: #999;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+	}
+#logo1{
+	width:100%;
+	max-width:300px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:4px;
+	display: block;
+	}
